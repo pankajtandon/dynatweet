@@ -1,0 +1,15 @@
+/dist/
+/.idea/
+/logs/
+/build/
+/out/
+/release/
+/artifacts/
+/nbproject/private/
+/greenbul/nbproject/private/
+/target/
+/classes/
+.iml
+*.iml
+*.terraform
+.DS_Store
